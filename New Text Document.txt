@@ -1,3 +1,0 @@
-QR CODE GENERATOR PROJECT LINK
-
-https://www.geeksforgeeks.org/create-an-qr-code-generator-project-using-html-css-javascript/
